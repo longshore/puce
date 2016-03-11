@@ -11,4 +11,5 @@ bagOfTruth = Bag { item: true, count: 1, rest: EmptyBag }
 
 main = runTest do
   test "Bag" do
-    Assert.equal (Just true) (pickOne bagOfTruth).pick
+    Assert.equal (Just true) result
+    where result = (pickOne bagOfTruth).pick
