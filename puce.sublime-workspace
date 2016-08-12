@@ -1,0 +1,398 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tr",
+				"True"
+			],
+			[
+				"as",
+				"Assert"
+			],
+			[
+				"re",
+				"remainder"
+			],
+			[
+				"pi",
+				"pickOne"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/Colors.purs",
+			"settings":
+			{
+				"buffer_size": 138,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 173.0,
+		"last_filter": "pac inst",
+		"selected_items":
+		[
+			[
+				"pac inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Add Repository"
+			],
+			[
+				"tog",
+				"View: Toggle Side Bar"
+			],
+			[
+				"pac in",
+				"Package Control: Install Package"
+			],
+			[
+				"syn co",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"pac re pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack control li",
+				"Package Control: List Packages"
+			],
+			[
+				"p ins",
+				"Package Control: Install Package"
+			],
+			[
+				"p rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"p in",
+				"Package Control: Install Package"
+			],
+			[
+				"pa rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac i",
+				"Package Control: Install Package"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack re",
+				"Package Control: Remove Package"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"ssel",
+				"Set Syntax: Elm"
+			],
+			[
+				"sselm",
+				"Set Syntax: Elm"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"pac li ",
+				"Package Control: List Packages"
+			],
+			[
+				"pac sear",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pure",
+				"Set Syntax: PureScript"
+			],
+			[
+				"pac disc",
+				"Package Control: Discover Packages"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/David/dev/puce",
+		"/C/Users/David/dev/puce/src",
+		"/C/Users/David/dev/puce/test"
+	],
+	"file_history":
+	[
+		"/D/Media/Game/~Trials/RJ164325_trial (Damned, Kill Me!)/Damned,Kill me! -体験版Ver2.0-/Report_Game.txt",
+		"/D/Media/Audio/2016.07.29/Netherworld Stage/魔界ステージ/魔界ステージ_女声/悪魔の世界～魔界ステージ～.txt",
+		"/D/Media/Game/~Trials/RJ180492_trial (Flower Fairy)/flowerfairy_trial2/体験版制限および注意事項.txt",
+		"/D/Program Storage/Dwarf Fortress v0.43.04/data/init/init.txt",
+		"/D/Program Storage/Dwarf Fortress v0.43.04/data/init/d_init.txt",
+		"/D/Program Storage/Dwarf Fortress v0.43.04/map_rejection_log.txt",
+		"/D/Media/Game/~Trials/flowerfairy_trial2/manual.txt",
+		"/D/Program Storage/Starbound/mods/730345453.pak",
+		"/D/Program Storage/SteamLibrary/steamapps/common/Starbound - Unstable/storage/starbound.log.1",
+		"/D/Program Storage/Dwarf Fortress v0.43.04/raw/objects/inorganic_stone_soil.txt",
+		"/D/Program Storage/Dwarf Fortress v0.43.04/raw/objects/inorganic_stone_layer.txt",
+		"/C/Users/David/Documents/incident report of 2016-06-28.txt",
+		"/D/Media/Audio/2016.06.21/湖のサキュバスのマゾ犬調教催眠/read me.txt",
+		"/D/Media/Audio/2016.06.21/アラクネのくすぐり地獄催眠/readme.txt",
+		"/D/Media/Audio/freebies todo/ホワイトデー催眠パッケージ/readme.txt",
+		"/D/Media/Audio/TODO/TS(Slide)改.txt",
+		"/D/Media/Audio/Tag_us_later/Doll Saimin/お読みください.txt",
+		"/D/Media/Audio/Tag_us_later/Hypnotic Force of the Tsundere Queen/ツンデレ女王様の強気な催眠淫語/お読みください.txt",
+		"/C/Users/David/Documents/aviso cv 2016-06-25.txt",
+		"/D/Media/Audio/~Tagged/Black Predator Yamame/tracklist_SRLX-064.txt",
+		"/D/Media/Audio/2016.06.21/「ふたごあ～る」/Readme.txt",
+		"/D/Program Storage/Starbound/win64/stdout.txt",
+		"/D/Media/Audio/2016.06.21/リリムの悪戯～贄少女～/音声について.txt",
+		"/C/Users/David/dev/puce/src/Colors.purs",
+		"/D/Media/Audio/~Trials/（体験版）[一発やる会]熊本義援祭inプクプク2016/作品本体/他のけもみみさんは！ホムペへGO！.txt",
+		"/C/Users/David/Documents/Parallax Wars",
+		"/D/Media/Audio/~Trials/（体験版）[一発やる会]熊本義援祭inプクプク2016/作品本体/せんか◆キャラ設定.txt",
+		"/D/Media/temp/ザコの国　体験版/お読み下さい.txt",
+		"/H/Documents/twc cs call.txt",
+		"/C/Users/David/dev/puce/src/Bag.purs",
+		"/C/Users/David/dev/puce/src/Stack.purs",
+		"/C/Users/David/dev/puretest/bower.json",
+		"/C/Users/David/dev/puce/.psci_modules/index.js",
+		"/C/Users/David/dev/puce/test/Main.purs",
+		"/C/Users/David/dev/puce/src/Playfield.purs",
+		"/C/Users/David/dev/puce/test/Playfield.test.purs",
+		"/C/Users/David/dev/puce/test/Bag.test.purs",
+		"/C/Users/David/dev/puce/test/Deck.test.purs",
+		"/C/Users/David/dev/puce/src/Calculus.purs",
+		"/C/Users/David/dev/puce/bower.json",
+		"/C/Users/David/dev/puce/output/Main/externs.json",
+		"/C/Users/David/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/David/dev/beige/test/existence-test.js",
+		"/C/Users/David/dev/beige/.gitignore",
+		"/C/Users/David/dev/beige/package.json",
+		"/C/Users/David/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/David/dev/el/index.html",
+		"/C/Users/David/dev/el/elm-stuff/packages/elm-lang/core/3.0.0/src/Array.elm",
+		"/C/Users/David/dev/pure/src/stub.purs",
+		"/C/Users/David/dev/pure/test/existence-test.js",
+		"/C/Users/David/dev/pure/.gitignore",
+		"/C/Users/David/dev/pure/test/sanity-test.js"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 120.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fra",
+			"date",
+			"time",
+			"tim",
+			"cale",
+			"time",
+			"date",
+			"fps",
+			"[AQUIFER]",
+			"aq",
+			"movie",
+			"aqu",
+			"[AQUIFER]",
+			"RGB",
+			"newtype",
+			")\n",
+			"bag",
+			"Int"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/Colors.purs",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 138,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								85,
+								85
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PureScript/purescript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.elm_type":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "puce.sublime-project",
+	"replace":
+	{
+		"height": 82.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
